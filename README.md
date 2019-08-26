@@ -1,4 +1,4 @@
-# Small-Messager-API
+# Messager-API
 A web service: 
 - Build to experiment RESTful Web Services using the JAX-RS standard specification. 
 - Link various profiles to their messages where each message can have multiple comments. 
