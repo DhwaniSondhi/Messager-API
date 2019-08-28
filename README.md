@@ -1,9 +1,9 @@
-# Messager-API
+# Messenger-API
 A web service: 
 - Built to experiment RESTful Web Services using the JAX-RS standard specification. 
 - Link various profiles to their messages where each message can have multiple comments. 
 - All the comments, messages and profiles can be added, updated and seen. 
-- Experimented HATEOAS in reponses.
+- Experimented HATEOAS in responses.
 - The data is returned in JSON format.
 - Worked on Maven, Jersey and Tomcat.
 
